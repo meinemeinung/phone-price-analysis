@@ -16,11 +16,8 @@ def parse_phone_specification(html: str):
     if len(spec_key) != len(spec_value):
         raise ValueError("Key and val have different length!")
     else:
-        n = len(spec_key)
-        for i in range(n):
-            key = spec_key[i].text.strip()
-            val = spec_value[i].text.strip()
-            spec[key] = val
+        for key, val in zip(spec_key, spec_value):
+            spec[key.text.strip()] = val.text.strip()
 
     return spec
 
