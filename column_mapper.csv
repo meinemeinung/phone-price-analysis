@@ -1,0 +1,57 @@
+﻿col_id,col_en
+price,price
+Kategori,category
+Brand,brand
+Tahun Rilis,release_year
+Nama Produk,product_name
+2G Network,2g_network
+3G Network,3g_network
+4G Network,4g_network
+Jaringan,network
+Material,material
+Dimensi,dimension
+Berat,weight
+SIM Slots,num_sim_slots
+Tipe SIM Card,sim_card_type
+Warna,color
+Screen Resolution,screen_resolution
+Ukuran Layar,screen_size
+Technology,technology
+OS Version,os_version
+Version Detail,os_version_detail
+OS,os
+Prosesor,processor
+Detail Prosesor,processor_detail
+Kecepatan CPU,cpu_speed
+GPU,gpu
+Jumlah Core,num_core
+RAM,ram
+Memori Internal,internal_memory
+Tipe Memori Eksternal,external_memory_type
+Resolusi Kamera Belakang,back_camera_resolution
+Resolusi Kamera Utama Lainnya,other_main_camera_resolution
+Dual Kamera Belakang,has_dual_back_camera
+Jumlah Kamera Belakang,num_back_camera
+Resolusi Kamera Depan,front_camera_resolution
+Dual Kamera Depan,has_dual_front_camera
+Flash,has_flash
+Dual Flash,has_dual_flash
+Video,video
+NFC,has_nfc
+USB,usb
+Wi-Fi,wifi
+Bluetooth,bluetooth
+GPS,gps
+Tipe Baterai,battery_type
+Materi Baterai,battery_material
+Kapasitas Baterai,battery_capacity
+Waterproof,is_waterproof
+Sensor,cencor
+3.5mm Jack,has_3.5mm_jack
+Series,series
+Kapasitas Memori Eksternal,external_memory_capacity
+Infrared,has_infrared
+Resolusi Kamera Depan 2,front_camera_resolution_2
+5G Network,5g_network
+Fast Charging,has_fast_charging
+Daya Fast Charging,fast_charging_power
