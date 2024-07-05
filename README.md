@@ -5,5 +5,7 @@ Fun project to help me buy a new phone. This project is focused on scraping and 
 This project contains two main scripts for scraping phone price data:
 - `scrape.py`: Scrapes phone data sequentially.
 - `scrape_parallel.py`: Scrapes phone data using multiprocessing for improved performance.
+
+Also includes notebook for cleaning and exploring the scraped data:
 - `Data Cleaning And Exploration.ipynb`: Notebook for cleaning and exploring the scraped data.
 - (Coming) : Build ML models to predict phone price based on its specs.
